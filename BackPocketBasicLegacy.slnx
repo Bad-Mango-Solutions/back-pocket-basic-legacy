@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path="README.md" />
+    <File Path="StyleCop.json" />
+    <File Path=".github/ISSUE_TEMPLATE/basic_bug_report.md" />
+    <File Path=".github/ISSUE_TEMPLATE/basic_feature_request.md" />
+    <File Path="specs/reference/Applesoft BASIC ROM Reference.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/BadMango.Basic/BadMango.Basic.csproj" />
+    <Project Path="src/BadMango.Basic.Console/BadMango.Basic.Console.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BadMango.Basic.Tests/BadMango.Basic.Tests.csproj" />
+    <Project Path="tests/BadMango.Unit.Components/BadMango.Unit.Components.csproj" />
+  </Folder>
+</Solution>
